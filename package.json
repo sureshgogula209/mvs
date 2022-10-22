@@ -5,7 +5,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
-    "homepage": "https://sureshgogula209.github.io/mvs",
+    "homepage": "https://sureshgogula209.github.io/mvs/",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
